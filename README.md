@@ -1,7 +1,7 @@
 
-# Project Perhitungan Umur
+# Project Konversi Suhu
 
-Program Java ini merupakan `plikasi GUI` (Graphical User Interface) yang dibuat menggunakan `javax.swing`, berfungsi untuk mengonversi suhu antar berbagai satuan: Celsius, Fahrenheit, Reamur, dan Kelvin. Pengguna dapat memilih satuan suhu yang diinginkan melalui radio button dan melakukan konversi sesuai pilihan.
+Tugas 2 - Ahmad Shawity(2210010023)
 
 
 
